@@ -1,6 +1,10 @@
 # Credit-Risk-Prediction
 Implement some binary classfication model and some data analysis on Germany Credit Risk Data.
 
+## Credit Risk Dataset
+1. https://www.openml.org/d/31
+2. https://github.com/Waikato/weka-3.8/blob/master/wekadocs/data/credit-g.arff
+
 ## Requirements
 
   * Python 3.6
